@@ -1,6 +1,6 @@
 # Quiz Application
 
-This is a Quiz Application project containing HTML, CSS, and JavaScript files.
+This is a Quiz Application project containing HTML, CSS, and JavaScript files and SQL database.
 
 ## Project Files
 
