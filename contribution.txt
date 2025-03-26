@@ -1,0 +1,1 @@
+Jaskirat Singh : Directory Structure can be improved; Sensitive files are not added in .gitignore file; JavaScript can be written in much cleaner way.
